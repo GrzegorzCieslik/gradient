@@ -1,1 +1,1 @@
-Simple edu project.
+Simple edu project. Git test.
