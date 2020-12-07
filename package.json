@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/GrzegorzCieslik/gradient/issues"
   },
-  "homepage": "https://github.com/GrzegorzCieslik/gradient#readme"
+  "homepage": "https://github.com/GrzegorzCieslik/gradient#readme",
+  "dependencies": {}
 }
